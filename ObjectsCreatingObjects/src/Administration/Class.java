@@ -18,6 +18,7 @@ public class Class {
 	private String major;
 	private Room room;
 	private ArrayList<Student> students;
+	private String riyyan; //test for git
 	
 	public Class(String subject, String name, Professor professor, Date begin, Date end, int credits, String major,
 			Room room) {
